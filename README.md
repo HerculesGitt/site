@@ -1,2 +1,2 @@
 # site
-Site teste
+Site teste. Para aprender git e github
